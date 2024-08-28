@@ -1,3 +1,8 @@
 {
-  "tokenSetOrder": []
+  "tokenSetOrder": [
+    "global",
+    "semantic",
+    "comp/button",
+    "pattern/card"
+  ]
 }

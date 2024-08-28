@@ -2,8 +2,12 @@
   {
     "id": "74f1f918ddea4c1635d03d872ae4d24b6ab36c90",
     "name": "default",
-    "group": "theme",
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "semantic": "enabled",
+      "comp/button": "enabled",
+      "pattern/card": "enabled"
+    },
     "$figmaStyleReferences": {
       "global.shadow.100": "S:6695598809582abd169cca1fd3ec610c2be5f354,",
       "global.shadow.200": "S:e83f5d279ef213621e1ec3581d89262880f58acf,",
@@ -108,6 +112,7 @@
       "color.card.text": "S:ab0d50e5c01ceac7e15048d0998c255a787364d7,",
       "color.card.bg": "S:dfbec6f451680e56e05f2b1bb5e2ed92f3544038,",
       "color.card.icon": "S:ad34b60dcf19c5d9bf4243d08f7d4728806be56d,"
-    }
+    },
+    "group": "theme"
   }
 ]
