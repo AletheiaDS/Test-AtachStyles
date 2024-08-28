@@ -2,12 +2,7 @@
   {
     "id": "74f1f918ddea4c1635d03d872ae4d24b6ab36c90",
     "name": "default",
-    "selectedTokenSets": {
-      "global": "enabled",
-      "semantic": "enabled",
-      "comp/button": "enabled",
-      "pattern/card": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {
       "global.shadow.100": "S:bb824024e92913b89df18ae194f4c2d84c644d03,",
       "global.shadow.200": "S:8e76a824c4a5f0fb3cd1dc7118259289b9f45b0d,",
