@@ -79,7 +79,7 @@
         "1": {
           "value": {
             "fontFamily": "{global.font-family.primary}",
-            "fontWeight": "{global.font-weight.bold}",
+            "fontWeight": "Bold",
             "lineHeight": "{global.line-height.default}",
             "fontSize": "{global.font-size.6xl}"
           },

@@ -309,7 +309,7 @@
     },
     "font-weight": {
       "bold": {
-        "value": "Bold",
+        "value": "700",
         "type": "fontWeights"
       },
       "regular": {
